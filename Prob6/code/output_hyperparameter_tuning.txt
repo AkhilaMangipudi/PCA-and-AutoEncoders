@@ -1,0 +1,2112 @@
+---Prepare data...
+Hidden layers: 1, Hidden units: 256, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.563470 Duration 15.314 seconds.
+###Validation###
+Validation accuracy: 0.9511
+Hidden layers: 1, Hidden units: 256, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.603032 Duration 13.985 seconds.
+###Validation###
+Validation accuracy: 0.9527
+Hidden layers 1
+Epoch 2 Loss 1.475271 Duration 10.007 seconds.
+###Validation###
+Validation accuracy: 0.9644
+Hidden layers 1
+Epoch 3 Loss 1.463524 Duration 10.925 seconds.
+###Validation###
+Validation accuracy: 0.9701
+Hidden layers 1
+Epoch 4 Loss 1.472902 Duration 9.833 seconds.
+###Validation###
+Validation accuracy: 0.9690
+Hidden layers 1
+Epoch 5 Loss 1.461548 Duration 9.943 seconds.
+###Validation###
+Validation accuracy: 0.9739
+Hidden layers: 1, Hidden units: 256, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.497154 Duration 13.207 seconds.
+###Validation###
+Validation accuracy: 0.9482
+Hidden layers 1
+Epoch 2 Loss 1.492266 Duration 14.987 seconds.
+###Validation###
+Validation accuracy: 0.9644
+Hidden layers 1
+Epoch 3 Loss 1.466969 Duration 13.767 seconds.
+###Validation###
+Validation accuracy: 0.9648
+Hidden layers 1
+Epoch 4 Loss 1.476062 Duration 14.513 seconds.
+###Validation###
+Validation accuracy: 0.9730
+Hidden layers 1
+Epoch 5 Loss 1.493467 Duration 14.674 seconds.
+###Validation###
+Validation accuracy: 0.9687
+Hidden layers 1
+Epoch 6 Loss 1.461693 Duration 14.635 seconds.
+###Validation###
+Validation accuracy: 0.9733
+Hidden layers 1
+Epoch 7 Loss 1.485379 Duration 15.923 seconds.
+###Validation###
+Validation accuracy: 0.9761
+Hidden layers 1
+Epoch 8 Loss 1.479029 Duration 14.843 seconds.
+###Validation###
+Validation accuracy: 0.9749
+Hidden layers 1
+Epoch 9 Loss 1.493338 Duration 14.921 seconds.
+###Validation###
+Validation accuracy: 0.9773
+Hidden layers 1
+Epoch 10 Loss 1.462709 Duration 13.766 seconds.
+###Validation###
+Validation accuracy: 0.9767
+Hidden layers: 1, Hidden units: 256, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.508637 Duration 8.411 seconds.
+###Validation###
+Validation accuracy: 0.9474
+Hidden layers: 1, Hidden units: 256, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.576182 Duration 7.436 seconds.
+###Validation###
+Validation accuracy: 0.9466
+Hidden layers 1
+Epoch 2 Loss 1.499623 Duration 7.762 seconds.
+###Validation###
+Validation accuracy: 0.9535
+Hidden layers 1
+Epoch 3 Loss 1.493180 Duration 7.901 seconds.
+###Validation###
+Validation accuracy: 0.9645
+Hidden layers 1
+Epoch 4 Loss 1.533310 Duration 8.602 seconds.
+###Validation###
+Validation accuracy: 0.9695
+Hidden layers 1
+Epoch 5 Loss 1.489901 Duration 8.069 seconds.
+###Validation###
+Validation accuracy: 0.9724
+Hidden layers: 1, Hidden units: 256, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.496434 Duration 7.140 seconds.
+###Validation###
+Validation accuracy: 0.9460
+Hidden layers 1
+Epoch 2 Loss 1.515338 Duration 7.470 seconds.
+###Validation###
+Validation accuracy: 0.9565
+Hidden layers 1
+Epoch 3 Loss 1.523454 Duration 8.623 seconds.
+###Validation###
+Validation accuracy: 0.9647
+Hidden layers 1
+Epoch 4 Loss 1.480393 Duration 9.404 seconds.
+###Validation###
+Validation accuracy: 0.9688
+Hidden layers 1
+Epoch 5 Loss 1.470966 Duration 8.735 seconds.
+###Validation###
+Validation accuracy: 0.9707
+Hidden layers 1
+Epoch 6 Loss 1.495378 Duration 8.034 seconds.
+###Validation###
+Validation accuracy: 0.9706
+Hidden layers 1
+Epoch 7 Loss 1.488420 Duration 7.627 seconds.
+###Validation###
+Validation accuracy: 0.9712
+Hidden layers 1
+Epoch 8 Loss 1.461864 Duration 8.225 seconds.
+###Validation###
+Validation accuracy: 0.9733
+Hidden layers 1
+Epoch 9 Loss 1.477546 Duration 8.210 seconds.
+###Validation###
+Validation accuracy: 0.9760
+Hidden layers 1
+Epoch 10 Loss 1.494274 Duration 7.556 seconds.
+###Validation###
+Validation accuracy: 0.9756
+Hidden layers: 1, Hidden units: 256, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.513031 Duration 4.965 seconds.
+###Validation###
+Validation accuracy: 0.9391
+Hidden layers: 1, Hidden units: 256, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.512402 Duration 5.025 seconds.
+###Validation###
+Validation accuracy: 0.9382
+Hidden layers 1
+Epoch 2 Loss 1.528564 Duration 5.126 seconds.
+###Validation###
+Validation accuracy: 0.9533
+Hidden layers 1
+Epoch 3 Loss 1.491194 Duration 4.665 seconds.
+###Validation###
+Validation accuracy: 0.9617
+Hidden layers 1
+Epoch 4 Loss 1.548309 Duration 5.713 seconds.
+###Validation###
+Validation accuracy: 0.9625
+Hidden layers 1
+Epoch 5 Loss 1.507561 Duration 4.844 seconds.
+###Validation###
+Validation accuracy: 0.9652
+Hidden layers: 1, Hidden units: 256, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.599471 Duration 5.368 seconds.
+###Validation###
+Validation accuracy: 0.8510
+Hidden layers 1
+Epoch 2 Loss 1.600614 Duration 5.527 seconds.
+###Validation###
+Validation accuracy: 0.8628
+Hidden layers 1
+Epoch 3 Loss 1.556678 Duration 4.225 seconds.
+###Validation###
+Validation accuracy: 0.8670
+Hidden layers 1
+Epoch 4 Loss 1.514861 Duration 5.459 seconds.
+###Validation###
+Validation accuracy: 0.9611
+Hidden layers 1
+Epoch 5 Loss 1.496824 Duration 4.628 seconds.
+###Validation###
+Validation accuracy: 0.9665
+Hidden layers 1
+Epoch 6 Loss 1.486837 Duration 4.939 seconds.
+###Validation###
+Validation accuracy: 0.9673
+Hidden layers 1
+Epoch 7 Loss 1.497451 Duration 5.132 seconds.
+###Validation###
+Validation accuracy: 0.9723
+Hidden layers 1
+Epoch 8 Loss 1.474669 Duration 4.464 seconds.
+###Validation###
+Validation accuracy: 0.9733
+Hidden layers 1
+Epoch 9 Loss 1.492481 Duration 5.308 seconds.
+###Validation###
+Validation accuracy: 0.9738
+Hidden layers 1
+Epoch 10 Loss 1.477746 Duration 5.123 seconds.
+###Validation###
+Validation accuracy: 0.9754
+Hidden layers: 1, Hidden units: 512, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.514662 Duration 20.630 seconds.
+###Validation###
+Validation accuracy: 0.9539
+Hidden layers: 1, Hidden units: 512, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.486897 Duration 20.595 seconds.
+###Validation###
+Validation accuracy: 0.9571
+Hidden layers 1
+Epoch 2 Loss 1.550644 Duration 18.683 seconds.
+###Validation###
+Validation accuracy: 0.9613
+Hidden layers 1
+Epoch 3 Loss 1.461269 Duration 18.221 seconds.
+###Validation###
+Validation accuracy: 0.9689
+Hidden layers 1
+Epoch 4 Loss 1.492003 Duration 17.907 seconds.
+###Validation###
+Validation accuracy: 0.9697
+Hidden layers 1
+Epoch 5 Loss 1.522093 Duration 15.920 seconds.
+###Validation###
+Validation accuracy: 0.9730
+Hidden layers: 1, Hidden units: 512, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.506659 Duration 17.666 seconds.
+###Validation###
+Validation accuracy: 0.9546
+Hidden layers 1
+Epoch 2 Loss 1.488106 Duration 18.074 seconds.
+###Validation###
+Validation accuracy: 0.9622
+Hidden layers 1
+Epoch 3 Loss 1.465167 Duration 18.795 seconds.
+###Validation###
+Validation accuracy: 0.9705
+Hidden layers 1
+Epoch 4 Loss 1.464797 Duration 17.411 seconds.
+###Validation###
+Validation accuracy: 0.9711
+Hidden layers 1
+Epoch 5 Loss 1.525691 Duration 17.455 seconds.
+###Validation###
+Validation accuracy: 0.9749
+Hidden layers 1
+Epoch 6 Loss 1.496471 Duration 18.618 seconds.
+###Validation###
+Validation accuracy: 0.9744
+Hidden layers 1
+Epoch 7 Loss 1.521576 Duration 17.991 seconds.
+###Validation###
+Validation accuracy: 0.9768
+Hidden layers 1
+Epoch 8 Loss 1.493574 Duration 18.745 seconds.
+###Validation###
+Validation accuracy: 0.9765
+Hidden layers 1
+Epoch 9 Loss 1.483404 Duration 17.704 seconds.
+###Validation###
+Validation accuracy: 0.9769
+Hidden layers 1
+Epoch 10 Loss 1.461595 Duration 18.047 seconds.
+###Validation###
+Validation accuracy: 0.9790
+Hidden layers: 1, Hidden units: 512, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.493716 Duration 10.657 seconds.
+###Validation###
+Validation accuracy: 0.9540
+Hidden layers: 1, Hidden units: 512, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.507478 Duration 10.891 seconds.
+###Validation###
+Validation accuracy: 0.9527
+Hidden layers 1
+Epoch 2 Loss 1.523322 Duration 9.971 seconds.
+###Validation###
+Validation accuracy: 0.9652
+Hidden layers 1
+Epoch 3 Loss 1.477998 Duration 9.961 seconds.
+###Validation###
+Validation accuracy: 0.9674
+Hidden layers 1
+Epoch 4 Loss 1.479731 Duration 10.035 seconds.
+###Validation###
+Validation accuracy: 0.9703
+Hidden layers 1
+Epoch 5 Loss 1.477082 Duration 10.384 seconds.
+###Validation###
+Validation accuracy: 0.9710
+Hidden layers: 1, Hidden units: 512, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.520645 Duration 10.935 seconds.
+###Validation###
+Validation accuracy: 0.9558
+Hidden layers 1
+Epoch 2 Loss 1.498208 Duration 9.711 seconds.
+###Validation###
+Validation accuracy: 0.9632
+Hidden layers 1
+Epoch 3 Loss 1.465780 Duration 11.815 seconds.
+###Validation###
+Validation accuracy: 0.9672
+Hidden layers 1
+Epoch 4 Loss 1.502993 Duration 10.671 seconds.
+###Validation###
+Validation accuracy: 0.9695
+Hidden layers 1
+Epoch 5 Loss 1.481277 Duration 10.884 seconds.
+###Validation###
+Validation accuracy: 0.9715
+Hidden layers 1
+Epoch 6 Loss 1.462165 Duration 10.562 seconds.
+###Validation###
+Validation accuracy: 0.9755
+Hidden layers 1
+Epoch 7 Loss 1.480234 Duration 10.218 seconds.
+###Validation###
+Validation accuracy: 0.9751
+Hidden layers 1
+Epoch 8 Loss 1.463589 Duration 10.408 seconds.
+###Validation###
+Validation accuracy: 0.9764
+Hidden layers 1
+Epoch 9 Loss 1.468491 Duration 10.356 seconds.
+###Validation###
+Validation accuracy: 0.9779
+Hidden layers 1
+Epoch 10 Loss 1.503972 Duration 10.224 seconds.
+###Validation###
+Validation accuracy: 0.9775
+Hidden layers: 1, Hidden units: 512, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.534753 Duration 6.921 seconds.
+###Validation###
+Validation accuracy: 0.9466
+Hidden layers: 1, Hidden units: 512, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.535150 Duration 6.964 seconds.
+###Validation###
+Validation accuracy: 0.9469
+Hidden layers 1
+Epoch 2 Loss 1.506575 Duration 6.899 seconds.
+###Validation###
+Validation accuracy: 0.9606
+Hidden layers 1
+Epoch 3 Loss 1.500578 Duration 6.128 seconds.
+###Validation###
+Validation accuracy: 0.9651
+Hidden layers 1
+Epoch 4 Loss 1.510159 Duration 6.831 seconds.
+###Validation###
+Validation accuracy: 0.9691
+Hidden layers 1
+Epoch 5 Loss 1.481227 Duration 6.295 seconds.
+###Validation###
+Validation accuracy: 0.9712
+Hidden layers: 1, Hidden units: 512, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.535788 Duration 6.839 seconds.
+###Validation###
+Validation accuracy: 0.9343
+Hidden layers 1
+Epoch 2 Loss 1.519377 Duration 7.173 seconds.
+###Validation###
+Validation accuracy: 0.9619
+Hidden layers 1
+Epoch 3 Loss 1.511991 Duration 7.583 seconds.
+###Validation###
+Validation accuracy: 0.9666
+Hidden layers 1
+Epoch 4 Loss 1.497914 Duration 6.947 seconds.
+###Validation###
+Validation accuracy: 0.9676
+Hidden layers 1
+Epoch 5 Loss 1.474404 Duration 7.209 seconds.
+###Validation###
+Validation accuracy: 0.9719
+Hidden layers 1
+Epoch 6 Loss 1.469946 Duration 7.266 seconds.
+###Validation###
+Validation accuracy: 0.9744
+Hidden layers 1
+Epoch 7 Loss 1.499804 Duration 7.397 seconds.
+###Validation###
+Validation accuracy: 0.9747
+Hidden layers 1
+Epoch 8 Loss 1.462697 Duration 6.831 seconds.
+###Validation###
+Validation accuracy: 0.9762
+Hidden layers 1
+Epoch 9 Loss 1.462898 Duration 7.320 seconds.
+###Validation###
+Validation accuracy: 0.9768
+Hidden layers 1
+Epoch 10 Loss 1.503719 Duration 6.618 seconds.
+###Validation###
+Validation accuracy: 0.9764
+Hidden layers: 1, Hidden units: 1024, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.527667 Duration 23.596 seconds.
+###Validation###
+Validation accuracy: 0.9585
+Hidden layers: 1, Hidden units: 1024, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.530424 Duration 22.504 seconds.
+###Validation###
+Validation accuracy: 0.9578
+Hidden layers 1
+Epoch 2 Loss 1.462503 Duration 23.057 seconds.
+###Validation###
+Validation accuracy: 0.9653
+Hidden layers 1
+Epoch 3 Loss 1.463850 Duration 23.566 seconds.
+###Validation###
+Validation accuracy: 0.9704
+Hidden layers 1
+Epoch 4 Loss 1.470180 Duration 22.947 seconds.
+###Validation###
+Validation accuracy: 0.9735
+Hidden layers 1
+Epoch 5 Loss 1.463195 Duration 22.697 seconds.
+###Validation###
+Validation accuracy: 0.9715
+Hidden layers: 1, Hidden units: 1024, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.523848 Duration 21.963 seconds.
+###Validation###
+Validation accuracy: 0.9528
+Hidden layers 1
+Epoch 2 Loss 1.530902 Duration 23.676 seconds.
+###Validation###
+Validation accuracy: 0.9570
+Hidden layers 1
+Epoch 3 Loss 1.461160 Duration 22.066 seconds.
+###Validation###
+Validation accuracy: 0.9644
+Hidden layers 1
+Epoch 4 Loss 1.492751 Duration 22.367 seconds.
+###Validation###
+Validation accuracy: 0.9713
+Hidden layers 1
+Epoch 5 Loss 1.512434 Duration 24.308 seconds.
+###Validation###
+Validation accuracy: 0.9716
+Hidden layers 1
+Epoch 6 Loss 1.461183 Duration 23.393 seconds.
+###Validation###
+Validation accuracy: 0.9764
+Hidden layers 1
+Epoch 7 Loss 1.464249 Duration 23.695 seconds.
+###Validation###
+Validation accuracy: 0.9734
+Hidden layers 1
+Epoch 8 Loss 1.461179 Duration 23.716 seconds.
+###Validation###
+Validation accuracy: 0.9732
+Hidden layers 1
+Epoch 9 Loss 1.461181 Duration 23.362 seconds.
+###Validation###
+Validation accuracy: 0.9758
+Hidden layers 1
+Epoch 10 Loss 1.461303 Duration 24.421 seconds.
+###Validation###
+Validation accuracy: 0.9771
+Hidden layers: 1, Hidden units: 1024, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.534008 Duration 14.072 seconds.
+###Validation###
+Validation accuracy: 0.9576
+Hidden layers: 1, Hidden units: 1024, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 1
+Epoch 1 Loss 1.476023 Duration 15.008 seconds.
+###Validation###
+Validation accuracy: 0.9580
+Hidden layers 1
+Epoch 2 Loss 1.486451 Duration 8.324 seconds.
+###Validation###
+Validation accuracy: 0.9679
+Hidden layers 1
+Epoch 3 Loss 1.488806 Duration 9.048 seconds.
+###Validation###
+Validation accuracy: 0.9636
+---Prepare data...
+Hidden layers: 2, Hidden units: 256, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.533914 Duration 8.097 seconds.
+###Validation###
+Validation accuracy: 0.9526
+Hidden layers: 2, Hidden units: 256, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.586538 Duration 7.107 seconds.
+###Validation###
+Validation accuracy: 0.9506
+Hidden layers 2
+Epoch 2 Loss 1.493594 Duration 6.359 seconds.
+###Validation###
+Validation accuracy: 0.9607
+Hidden layers 2
+Epoch 3 Loss 1.492444 Duration 6.069 seconds.
+###Validation###
+Validation accuracy: 0.9663
+Hidden layers 2
+Epoch 4 Loss 1.553411 Duration 6.832 seconds.
+###Validation###
+Validation accuracy: 0.9610
+Hidden layers 2
+Epoch 5 Loss 1.466852 Duration 6.955 seconds.
+###Validation###
+Validation accuracy: 0.9599
+Hidden layers: 2, Hidden units: 256, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.502050 Duration 6.982 seconds.
+###Validation###
+Validation accuracy: 0.9544
+Hidden layers 2
+Epoch 2 Loss 1.468155 Duration 6.331 seconds.
+###Validation###
+Validation accuracy: 0.9630
+Hidden layers 2
+Epoch 3 Loss 1.554731 Duration 6.858 seconds.
+###Validation###
+Validation accuracy: 0.9593
+Hidden layers 2
+Epoch 4 Loss 1.461194 Duration 7.496 seconds.
+###Validation###
+Validation accuracy: 0.9706
+Hidden layers 2
+Epoch 5 Loss 1.493450 Duration 7.603 seconds.
+###Validation###
+Validation accuracy: 0.9647
+Hidden layers 2
+Epoch 6 Loss 1.553854 Duration 7.812 seconds.
+###Validation###
+Validation accuracy: 0.9678
+Hidden layers 2
+Epoch 7 Loss 1.554826 Duration 7.389 seconds.
+###Validation###
+Validation accuracy: 0.9711
+Hidden layers 2
+Epoch 8 Loss 1.492667 Duration 8.064 seconds.
+###Validation###
+Validation accuracy: 0.9661
+Hidden layers 2
+Epoch 9 Loss 1.492400 Duration 7.093 seconds.
+###Validation###
+Validation accuracy: 0.9671
+Hidden layers 2
+Epoch 10 Loss 1.488549 Duration 7.691 seconds.
+###Validation###
+Validation accuracy: 0.9690
+Hidden layers: 2, Hidden units: 256, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.593150 Duration 4.369 seconds.
+###Validation###
+Validation accuracy: 0.9514
+Hidden layers: 2, Hidden units: 256, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.537410 Duration 4.358 seconds.
+###Validation###
+Validation accuracy: 0.9536
+Hidden layers 2
+Epoch 2 Loss 1.547240 Duration 4.142 seconds.
+###Validation###
+Validation accuracy: 0.9620
+Hidden layers 2
+Epoch 3 Loss 1.483174 Duration 4.361 seconds.
+###Validation###
+Validation accuracy: 0.9647
+Hidden layers 2
+Epoch 4 Loss 1.503544 Duration 4.720 seconds.
+###Validation###
+Validation accuracy: 0.9681
+Hidden layers 2
+Epoch 5 Loss 1.496897 Duration 4.330 seconds.
+###Validation###
+Validation accuracy: 0.9640
+Hidden layers: 2, Hidden units: 256, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.483763 Duration 4.068 seconds.
+###Validation###
+Validation accuracy: 0.9495
+Hidden layers 2
+Epoch 2 Loss 1.510995 Duration 4.815 seconds.
+###Validation###
+Validation accuracy: 0.9615
+Hidden layers 2
+Epoch 3 Loss 1.465625 Duration 3.898 seconds.
+###Validation###
+Validation accuracy: 0.9675
+Hidden layers 2
+Epoch 4 Loss 1.478569 Duration 4.744 seconds.
+###Validation###
+Validation accuracy: 0.9681
+Hidden layers 2
+Epoch 5 Loss 1.472904 Duration 3.861 seconds.
+###Validation###
+Validation accuracy: 0.9693
+Hidden layers 2
+Epoch 6 Loss 1.488724 Duration 7.251 seconds.
+###Validation###
+Validation accuracy: 0.9738
+Hidden layers 2
+Epoch 7 Loss 1.537624 Duration 3.964 seconds.
+###Validation###
+Validation accuracy: 0.9718
+Hidden layers 2
+Epoch 8 Loss 1.461270 Duration 4.762 seconds.
+###Validation###
+Validation accuracy: 0.9695
+Hidden layers 2
+Epoch 9 Loss 1.463540 Duration 4.418 seconds.
+###Validation###
+Validation accuracy: 0.9741
+Hidden layers 2
+Epoch 10 Loss 1.461685 Duration 4.361 seconds.
+###Validation###
+Validation accuracy: 0.9750
+Hidden layers: 2, Hidden units: 256, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.509891 Duration 3.475 seconds.
+###Validation###
+Validation accuracy: 0.9472
+Hidden layers: 2, Hidden units: 256, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.528867 Duration 3.033 seconds.
+###Validation###
+Validation accuracy: 0.9479
+Hidden layers 2
+Epoch 2 Loss 1.496151 Duration 2.988 seconds.
+###Validation###
+Validation accuracy: 0.9606
+Hidden layers 2
+Epoch 3 Loss 1.486607 Duration 3.146 seconds.
+###Validation###
+Validation accuracy: 0.9675
+Hidden layers 2
+Epoch 4 Loss 1.506433 Duration 3.119 seconds.
+###Validation###
+Validation accuracy: 0.9703
+Hidden layers 2
+Epoch 5 Loss 1.479266 Duration 2.927 seconds.
+###Validation###
+Validation accuracy: 0.9742
+Hidden layers: 2, Hidden units: 256, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.516357 Duration 3.141 seconds.
+###Validation###
+Validation accuracy: 0.9494
+Hidden layers 2
+Epoch 2 Loss 1.514848 Duration 3.725 seconds.
+###Validation###
+Validation accuracy: 0.9609
+Hidden layers 2
+Epoch 3 Loss 1.472019 Duration 3.374 seconds.
+###Validation###
+Validation accuracy: 0.9646
+Hidden layers 2
+Epoch 4 Loss 1.481366 Duration 3.215 seconds.
+###Validation###
+Validation accuracy: 0.9723
+Hidden layers 2
+Epoch 5 Loss 1.510098 Duration 3.015 seconds.
+###Validation###
+Validation accuracy: 0.9716
+Hidden layers 2
+Epoch 6 Loss 1.480517 Duration 3.059 seconds.
+###Validation###
+Validation accuracy: 0.9744
+Hidden layers 2
+Epoch 7 Loss 1.478010 Duration 2.831 seconds.
+###Validation###
+Validation accuracy: 0.9745
+Hidden layers 2
+Epoch 8 Loss 1.471339 Duration 2.955 seconds.
+###Validation###
+Validation accuracy: 0.9759
+Hidden layers 2
+Epoch 9 Loss 1.495402 Duration 3.060 seconds.
+###Validation###
+Validation accuracy: 0.9753
+Hidden layers 2
+Epoch 10 Loss 1.484970 Duration 2.944 seconds.
+###Validation###
+Validation accuracy: 0.9737
+Hidden layers: 2, Hidden units: 512, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.492164 Duration 14.714 seconds.
+###Validation###
+Validation accuracy: 0.9522
+Hidden layers: 2, Hidden units: 512, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.551826 Duration 13.640 seconds.
+###Validation###
+Validation accuracy: 0.9490
+Hidden layers 2
+Epoch 2 Loss 1.461154 Duration 13.312 seconds.
+###Validation###
+Validation accuracy: 0.9562
+Hidden layers 2
+Epoch 3 Loss 1.461156 Duration 13.915 seconds.
+###Validation###
+Validation accuracy: 0.9634
+Hidden layers 2
+Epoch 4 Loss 1.520682 Duration 13.565 seconds.
+###Validation###
+Validation accuracy: 0.9634
+Hidden layers 2
+Epoch 5 Loss 1.478525 Duration 14.276 seconds.
+###Validation###
+Validation accuracy: 0.9646
+Hidden layers: 2, Hidden units: 512, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.461160 Duration 13.682 seconds.
+###Validation###
+Validation accuracy: 0.9505
+Hidden layers 2
+Epoch 2 Loss 1.461153 Duration 12.950 seconds.
+###Validation###
+Validation accuracy: 0.9609
+Hidden layers 2
+Epoch 3 Loss 1.522488 Duration 13.202 seconds.
+###Validation###
+Validation accuracy: 0.9679
+Hidden layers 2
+Epoch 4 Loss 1.490858 Duration 13.642 seconds.
+###Validation###
+Validation accuracy: 0.9637
+Hidden layers 2
+Epoch 5 Loss 1.494416 Duration 13.678 seconds.
+###Validation###
+Validation accuracy: 0.9598
+Hidden layers 2
+Epoch 6 Loss 1.461151 Duration 13.342 seconds.
+###Validation###
+Validation accuracy: 0.9655
+Hidden layers 2
+Epoch 7 Loss 1.496506 Duration 14.159 seconds.
+###Validation###
+Validation accuracy: 0.9635
+Hidden layers 2
+Epoch 8 Loss 1.461150 Duration 19.076 seconds.
+###Validation###
+Validation accuracy: 0.9661
+Hidden layers 2
+Epoch 9 Loss 1.461150 Duration 15.031 seconds.
+###Validation###
+Validation accuracy: 0.9632
+Hidden layers 2
+Epoch 10 Loss 1.514433 Duration 14.442 seconds.
+###Validation###
+Validation accuracy: 0.9600
+Hidden layers: 2, Hidden units: 512, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.554410 Duration 10.485 seconds.
+###Validation###
+Validation accuracy: 0.9543
+Hidden layers: 2, Hidden units: 512, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.512279 Duration 8.676 seconds.
+###Validation###
+Validation accuracy: 0.9559
+Hidden layers 2
+Epoch 2 Loss 1.542439 Duration 9.953 seconds.
+###Validation###
+Validation accuracy: 0.9590
+Hidden layers 2
+Epoch 3 Loss 1.503729 Duration 8.674 seconds.
+###Validation###
+Validation accuracy: 0.9698
+Hidden layers 2
+Epoch 4 Loss 1.537795 Duration 8.719 seconds.
+###Validation###
+Validation accuracy: 0.9635
+Hidden layers 2
+Epoch 5 Loss 1.491694 Duration 10.037 seconds.
+###Validation###
+Validation accuracy: 0.9688
+Hidden layers: 2, Hidden units: 512, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.532148 Duration 10.189 seconds.
+###Validation###
+Validation accuracy: 0.9490
+---Prepare data...
+Hidden layers: 2, Hidden units: 512, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.529335 Duration 5.263 seconds.
+###Validation###
+Validation accuracy: 0.9535
+Hidden layers: 2, Hidden units: 512, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.499176 Duration 5.929 seconds.
+###Validation###
+Validation accuracy: 0.9500
+Hidden layers 2
+Epoch 2 Loss 1.503433 Duration 5.633 seconds.
+###Validation###
+Validation accuracy: 0.9627
+Hidden layers 2
+Epoch 3 Loss 1.493183 Duration 5.215 seconds.
+###Validation###
+Validation accuracy: 0.9682
+Hidden layers 2
+Epoch 4 Loss 1.478080 Duration 5.641 seconds.
+###Validation###
+Validation accuracy: 0.9688
+Hidden layers 2
+Epoch 5 Loss 1.466320 Duration 6.009 seconds.
+###Validation###
+Validation accuracy: 0.9674
+Hidden layers: 2, Hidden units: 512, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.520683 Duration 6.095 seconds.
+###Validation###
+Validation accuracy: 0.9568
+Hidden layers 2
+Epoch 2 Loss 1.497212 Duration 5.510 seconds.
+###Validation###
+Validation accuracy: 0.9665
+Hidden layers 2
+Epoch 3 Loss 1.510389 Duration 7.986 seconds.
+###Validation###
+Validation accuracy: 0.9701
+Hidden layers 2
+Epoch 4 Loss 1.499393 Duration 6.935 seconds.
+###Validation###
+Validation accuracy: 0.9673
+Hidden layers 2
+Epoch 5 Loss 1.492257 Duration 5.502 seconds.
+###Validation###
+Validation accuracy: 0.9699
+Hidden layers 2
+Epoch 6 Loss 1.492412 Duration 5.514 seconds.
+###Validation###
+Validation accuracy: 0.9690
+Hidden layers 2
+Epoch 7 Loss 1.492961 Duration 5.318 seconds.
+###Validation###
+Validation accuracy: 0.9728
+Hidden layers 2
+Epoch 8 Loss 1.477310 Duration 4.947 seconds.
+###Validation###
+Validation accuracy: 0.9715
+Hidden layers 2
+Epoch 9 Loss 1.482721 Duration 5.250 seconds.
+###Validation###
+Validation accuracy: 0.9694
+Hidden layers 2
+Epoch 10 Loss 1.476777 Duration 4.953 seconds.
+###Validation###
+Validation accuracy: 0.9687
+Hidden layers: 2, Hidden units: 512, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.556353 Duration 3.777 seconds.
+###Validation###
+Validation accuracy: 0.9539
+Hidden layers: 2, Hidden units: 512, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.507423 Duration 4.306 seconds.
+###Validation###
+Validation accuracy: 0.9588
+Hidden layers 2
+Epoch 2 Loss 1.492363 Duration 3.651 seconds.
+###Validation###
+Validation accuracy: 0.9645
+Hidden layers 2
+Epoch 3 Loss 1.522845 Duration 3.519 seconds.
+###Validation###
+Validation accuracy: 0.9687
+Hidden layers 2
+Epoch 4 Loss 1.512862 Duration 3.534 seconds.
+###Validation###
+Validation accuracy: 0.9667
+Hidden layers 2
+Epoch 5 Loss 1.484508 Duration 3.554 seconds.
+###Validation###
+Validation accuracy: 0.9716
+Hidden layers: 2, Hidden units: 512, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.544526 Duration 4.139 seconds.
+###Validation###
+Validation accuracy: 0.9459
+Hidden layers 2
+Epoch 2 Loss 1.488152 Duration 3.717 seconds.
+###Validation###
+Validation accuracy: 0.9621
+Hidden layers 2
+Epoch 3 Loss 1.503359 Duration 3.362 seconds.
+###Validation###
+Validation accuracy: 0.9654
+Hidden layers 2
+Epoch 4 Loss 1.485185 Duration 3.393 seconds.
+###Validation###
+Validation accuracy: 0.9717
+Hidden layers 2
+Epoch 5 Loss 1.516439 Duration 3.473 seconds.
+###Validation###
+Validation accuracy: 0.9692
+Hidden layers 2
+Epoch 6 Loss 1.492469 Duration 3.426 seconds.
+###Validation###
+Validation accuracy: 0.9741
+Hidden layers 2
+Epoch 7 Loss 1.471705 Duration 4.628 seconds.
+###Validation###
+Validation accuracy: 0.9717
+Hidden layers 2
+Epoch 8 Loss 1.466710 Duration 3.593 seconds.
+###Validation###
+Validation accuracy: 0.9743
+Hidden layers 2
+Epoch 9 Loss 1.476277 Duration 3.786 seconds.
+###Validation###
+Validation accuracy: 0.9774
+Hidden layers 2
+Epoch 10 Loss 1.462944 Duration 3.562 seconds.
+###Validation###
+Validation accuracy: 0.9723
+Hidden layers: 2, Hidden units: 1024, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.492380 Duration 14.608 seconds.
+###Validation###
+Validation accuracy: 0.9423
+Hidden layers: 2, Hidden units: 1024, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.500416 Duration 14.353 seconds.
+###Validation###
+Validation accuracy: 0.9537
+Hidden layers 2
+Epoch 2 Loss 1.485504 Duration 14.097 seconds.
+###Validation###
+Validation accuracy: 0.9618
+Hidden layers 2
+Epoch 3 Loss 1.519867 Duration 13.727 seconds.
+###Validation###
+Validation accuracy: 0.9619
+Hidden layers 2
+Epoch 4 Loss 1.476798 Duration 13.788 seconds.
+###Validation###
+Validation accuracy: 0.9616
+Hidden layers 2
+Epoch 5 Loss 1.538738 Duration 14.169 seconds.
+###Validation###
+Validation accuracy: 0.9539
+Hidden layers: 2, Hidden units: 1024, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.535860 Duration 13.357 seconds.
+###Validation###
+Validation accuracy: 0.9474
+Hidden layers 2
+Epoch 2 Loss 1.554780 Duration 16.066 seconds.
+###Validation###
+Validation accuracy: 0.9533
+Hidden layers 2
+Epoch 3 Loss 1.525787 Duration 15.360 seconds.
+###Validation###
+Validation accuracy: 0.9430
+Hidden layers 2
+Epoch 4 Loss 1.510381 Duration 14.706 seconds.
+###Validation###
+Validation accuracy: 0.9601
+Hidden layers 2
+Epoch 5 Loss 1.491437 Duration 13.858 seconds.
+###Validation###
+Validation accuracy: 0.9613
+Hidden layers 2
+Epoch 6 Loss 1.501710 Duration 14.199 seconds.
+###Validation###
+Validation accuracy: 0.9641
+Hidden layers 2
+Epoch 7 Loss 1.508025 Duration 14.177 seconds.
+###Validation###
+Validation accuracy: 0.9653
+Hidden layers 2
+Epoch 8 Loss 1.476775 Duration 13.966 seconds.
+###Validation###
+Validation accuracy: 0.9591
+Hidden layers 2
+Epoch 9 Loss 1.492404 Duration 17.031 seconds.
+###Validation###
+Validation accuracy: 0.9529
+Hidden layers 2
+Epoch 10 Loss 1.476803 Duration 14.623 seconds.
+###Validation###
+Validation accuracy: 0.9647
+Hidden layers: 2, Hidden units: 1024, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.509877 Duration 10.835 seconds.
+###Validation###
+Validation accuracy: 0.9523
+Hidden layers: 2, Hidden units: 1024, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 2
+Epoch 1 Loss 1.563939 Duration 9.939 seconds.
+###Validation###
+Validation accuracy: 0.9506
+Hidden layers 2
+Epoch 2 Loss 1.515073 Duration 9.807 seconds.
+###Validation###
+Validation accuracy: 0.9623
+Hidden layers 2
+Epoch 3 Loss 1.478417 Duration 10.606 seconds.
+###Validation###
+Validation accuracy: 0.9648
+Hidden layers 2
+Epoch 4 Loss 1.484715 Duration 10.131 seconds.
+###Validation###
+Validation accuracy: 0.9658
+Hidden layers 2
+Epoch 5 Loss 1.479771 Duration 11.493 seconds.
+###Validation###
+Validation accuracy: 0.9652
+Hidden layers: 2, Hidden units: 1024, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Epoch 1 Loss 1.534852 Duration 5.329 seconds.
+###Validation###
+Validation accuracy: 0.9502
+Epoch 2 Loss 1.510319 Duration 4.050 seconds.
+###Validation###
+Validation accuracy: 0.9622
+Epoch 3 Loss 1.496190 Duration 4.378 seconds.
+###Validation###
+Validation accuracy: 0.9678
+Epoch 4 Loss 1.491158 Duration 4.062 seconds.
+###Validation###
+Validation accuracy: 0.9715
+Epoch 5 Loss 1.465556 Duration 4.570 seconds.
+###Validation###
+Validation accuracy: 0.9690
+Epoch 6 Loss 1.465963 Duration 4.450 seconds.
+###Validation###
+Validation accuracy: 0.9724
+Epoch 7 Loss 1.461644 Duration 4.383 seconds.
+###Validation###
+Validation accuracy: 0.9754
+Epoch 8 Loss 1.488252 Duration 4.354 seconds.
+###Validation###
+Validation accuracy: 0.9746
+Epoch 9 Loss 1.476830 Duration 4.300 seconds.
+###Validation###
+Validation accuracy: 0.9735
+Epoch 10 Loss 1.482284 Duration 4.383 seconds.
+###Validation###
+Validation accuracy: 0.9722---Prepare data...
+Hidden layers: 3, Hidden units: 256, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.523536 Duration 6.064 seconds.
+###Validation###
+Validation accuracy: 0.9453
+Hidden layers: 3, Hidden units: 256, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.493192 Duration 6.006 seconds.
+###Validation###
+Validation accuracy: 0.9411
+Hidden layers 3
+Epoch 2 Loss 1.521674 Duration 6.426 seconds.
+###Validation###
+Validation accuracy: 0.9456
+Hidden layers 3
+Epoch 3 Loss 1.554901 Duration 6.544 seconds.
+###Validation###
+Validation accuracy: 0.9545
+Hidden layers 3
+Epoch 4 Loss 1.529412 Duration 6.471 seconds.
+###Validation###
+Validation accuracy: 0.9476
+Hidden layers 3
+Epoch 5 Loss 1.523629 Duration 7.402 seconds.
+###Validation###
+Validation accuracy: 0.9469
+Hidden layers: 3, Hidden units: 256, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.585086 Duration 5.292 seconds.
+###Validation###
+Validation accuracy: 0.9436
+Hidden layers 3
+Epoch 2 Loss 1.565690 Duration 5.746 seconds.
+###Validation###
+Validation accuracy: 0.9431
+Hidden layers 3
+Epoch 3 Loss 1.475352 Duration 6.012 seconds.
+###Validation###
+Validation accuracy: 0.9420
+Hidden layers 3
+Epoch 4 Loss 1.524700 Duration 6.022 seconds.
+###Validation###
+Validation accuracy: 0.9531
+Hidden layers 3
+Epoch 5 Loss 1.554900 Duration 5.610 seconds.
+###Validation###
+Validation accuracy: 0.9323
+Hidden layers 3
+Epoch 6 Loss 1.461301 Duration 5.481 seconds.
+###Validation###
+Validation accuracy: 0.9499
+Hidden layers 3
+Epoch 7 Loss 1.523668 Duration 5.968 seconds.
+###Validation###
+Validation accuracy: 0.9624
+Hidden layers 3
+Epoch 8 Loss 1.523650 Duration 5.782 seconds.
+###Validation###
+Validation accuracy: 0.9407
+Hidden layers 3
+Epoch 9 Loss 1.461150 Duration 6.079 seconds.
+###Validation###
+Validation accuracy: 0.9440
+Hidden layers 3
+Epoch 10 Loss 1.492400 Duration 6.078 seconds.
+###Validation###
+Validation accuracy: 0.9620
+Hidden layers: 3, Hidden units: 256, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.522078 Duration 3.699 seconds.
+###Validation###
+Validation accuracy: 0.9495
+Hidden layers: 3, Hidden units: 256, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.504646 Duration 6.961 seconds.
+###Validation###
+Validation accuracy: 0.9499
+Hidden layers 3
+Epoch 2 Loss 1.517526 Duration 4.704 seconds.
+###Validation###
+Validation accuracy: 0.9596
+Hidden layers 3
+Epoch 3 Loss 1.511154 Duration 3.480 seconds.
+###Validation###
+Validation accuracy: 0.9517
+Hidden layers 3
+Epoch 4 Loss 1.492409 Duration 3.492 seconds.
+###Validation###
+Validation accuracy: 0.9657
+Hidden layers 3
+Epoch 5 Loss 1.461150 Duration 3.452 seconds.
+###Validation###
+Validation accuracy: 0.9637
+Hidden layers: 3, Hidden units: 256, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.594545 Duration 3.555 seconds.
+###Validation###
+Validation accuracy: 0.9503
+Hidden layers 3
+Epoch 2 Loss 1.477529 Duration 3.599 seconds.
+###Validation###
+Validation accuracy: 0.9444
+Hidden layers 3
+Epoch 3 Loss 1.475452 Duration 3.656 seconds.
+###Validation###
+Validation accuracy: 0.9579
+Hidden layers 3
+Epoch 4 Loss 1.492433 Duration 4.935 seconds.
+###Validation###
+Validation accuracy: 0.9666
+Hidden layers 3
+Epoch 5 Loss 1.565347 Duration 3.697 seconds.
+###Validation###
+Validation accuracy: 0.9557
+Hidden layers 3
+Epoch 6 Loss 1.476774 Duration 3.735 seconds.
+###Validation###
+Validation accuracy: 0.9562
+Hidden layers 3
+Epoch 7 Loss 1.477110 Duration 3.628 seconds.
+###Validation###
+Validation accuracy: 0.9682
+Hidden layers 3
+Epoch 8 Loss 1.514763 Duration 3.620 seconds.
+###Validation###
+Validation accuracy: 0.9611
+Hidden layers 3
+Epoch 9 Loss 1.523648 Duration 3.753 seconds.
+###Validation###
+Validation accuracy: 0.9549
+Hidden layers 3
+Epoch 10 Loss 1.507845 Duration 3.639 seconds.
+###Validation###
+Validation accuracy: 0.9608
+Hidden layers: 3, Hidden units: 256, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.522138 Duration 2.617 seconds.
+###Validation###
+Validation accuracy: 0.9500
+Hidden layers: 3, Hidden units: 256, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.535636 Duration 2.786 seconds.
+###Validation###
+Validation accuracy: 0.9516
+Hidden layers 3
+Epoch 2 Loss 1.506178 Duration 2.491 seconds.
+###Validation###
+Validation accuracy: 0.9557
+Hidden layers 3
+Epoch 3 Loss 1.498642 Duration 2.272 seconds.
+###Validation###
+Validation accuracy: 0.9619
+Hidden layers 3
+Epoch 4 Loss 1.499020 Duration 2.281 seconds.
+###Validation###
+Validation accuracy: 0.9678
+Hidden layers 3
+Epoch 5 Loss 1.479025 Duration 2.312 seconds.
+###Validation###
+Validation accuracy: 0.9687
+Hidden layers: 3, Hidden units: 256, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.506647 Duration 2.584 seconds.
+###Validation###
+Validation accuracy: 0.9432
+Hidden layers 3
+Epoch 2 Loss 1.494157 Duration 2.331 seconds.
+###Validation###
+Validation accuracy: 0.9597
+Hidden layers 3
+Epoch 3 Loss 1.494846 Duration 2.305 seconds.
+###Validation###
+Validation accuracy: 0.9625
+Hidden layers 3
+Epoch 4 Loss 1.485567 Duration 2.347 seconds.
+###Validation###
+Validation accuracy: 0.9612
+Hidden layers 3
+Epoch 5 Loss 1.490075 Duration 2.304 seconds.
+###Validation###
+Validation accuracy: 0.9633
+Hidden layers 3
+Epoch 6 Loss 1.476978 Duration 2.345 seconds.
+###Validation###
+Validation accuracy: 0.9688
+Hidden layers 3
+Epoch 7 Loss 1.488301 Duration 2.646 seconds.
+###Validation###
+Validation accuracy: 0.9710
+Hidden layers 3
+Epoch 8 Loss 1.461843 Duration 2.361 seconds.
+###Validation###
+Validation accuracy: 0.9713
+Hidden layers 3
+Epoch 9 Loss 1.483881 Duration 2.354 seconds.
+###Validation###
+Validation accuracy: 0.9702
+Hidden layers 3
+Epoch 10 Loss 1.509086 Duration 2.342 seconds.
+###Validation###
+Validation accuracy: 0.9701
+Hidden layers: 3, Hidden units: 512, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.542761 Duration 10.968 seconds.
+###Validation###
+Validation accuracy: 0.9471
+Hidden layers: 3, Hidden units: 512, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.523650 Duration 11.048 seconds.
+###Validation###
+Validation accuracy: 0.9348
+Hidden layers 3
+Epoch 2 Loss 1.594354 Duration 11.088 seconds.
+###Validation###
+Validation accuracy: 0.8840
+Hidden layers 3
+Epoch 3 Loss 1.461205 Duration 11.946 seconds.
+###Validation###
+Validation accuracy: 0.9301
+Hidden layers 3
+Epoch 4 Loss 1.523650 Duration 11.197 seconds.
+###Validation###
+Validation accuracy: 0.9313
+Hidden layers 3
+Epoch 5 Loss 1.523650 Duration 11.122 seconds.
+###Validation###
+Validation accuracy: 0.9289
+Hidden layers: 3, Hidden units: 512, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.643340 Duration 11.486 seconds.
+###Validation###
+Validation accuracy: 0.9237
+Hidden layers 3
+Epoch 2 Loss 1.586540 Duration 11.681 seconds.
+###Validation###
+Validation accuracy: 0.9170
+Hidden layers 3
+Epoch 3 Loss 1.523650 Duration 10.995 seconds.
+###Validation###
+Validation accuracy: 0.9200
+Hidden layers 3
+Epoch 4 Loss 1.617400 Duration 11.974 seconds.
+###Validation###
+Validation accuracy: 0.9223
+Hidden layers 3
+Epoch 5 Loss 1.493860 Duration 11.497 seconds.
+###Validation###
+Validation accuracy: 0.9293
+Hidden layers 3
+Epoch 6 Loss 1.554900 Duration 11.697 seconds.
+###Validation###
+Validation accuracy: 0.9347
+Hidden layers 3
+Epoch 7 Loss 1.492400 Duration 11.732 seconds.
+###Validation###
+Validation accuracy: 0.9276
+Hidden layers 3
+Epoch 8 Loss 1.523650 Duration 11.953 seconds.
+###Validation###
+Validation accuracy: 0.9157
+Hidden layers 3
+Epoch 9 Loss 1.648650 Duration 11.603 seconds.
+###Validation###
+Validation accuracy: 0.8171
+Hidden layers 3
+Epoch 10 Loss 1.492400 Duration 11.521 seconds.
+###Validation###
+Validation accuracy: 0.9041
+Hidden layers: 3, Hidden units: 512, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.491354 Duration 7.213 seconds.
+###Validation###
+Validation accuracy: 0.9302
+Hidden layers: 3, Hidden units: 512, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.550701 Duration 8.105 seconds.
+###Validation###
+Validation accuracy: 0.9464
+Hidden layers 3
+Epoch 2 Loss 1.540104 Duration 7.314 seconds.
+###Validation###
+Validation accuracy: 0.9519
+Hidden layers 3
+Epoch 3 Loss 1.508307 Duration 7.241 seconds.
+###Validation###
+Validation accuracy: 0.9484
+Hidden layers 3
+Epoch 4 Loss 1.492781 Duration 7.253 seconds.
+###Validation###
+Validation accuracy: 0.9329
+Hidden layers 3
+Epoch 5 Loss 1.537656 Duration 7.257 seconds.
+###Validation###
+Validation accuracy: 0.9500
+Hidden layers: 3, Hidden units: 512, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.541076 Duration 7.546 seconds.
+###Validation###
+Validation accuracy: 0.9449
+Hidden layers 3
+Epoch 2 Loss 1.541926 Duration 7.248 seconds.
+###Validation###
+Validation accuracy: 0.9417
+Hidden layers 3
+Epoch 3 Loss 1.539774 Duration 7.676 seconds.
+###Validation###
+Validation accuracy: 0.9504
+Hidden layers 3
+Epoch 4 Loss 1.477080 Duration 7.347 seconds.
+###Validation###
+Validation accuracy: 0.9535
+Hidden layers 3
+Epoch 5 Loss 1.502631 Duration 7.022 seconds.
+###Validation###
+Validation accuracy: 0.9468
+Hidden layers 3
+Epoch 6 Loss 1.524090 Duration 7.462 seconds.
+###Validation###
+Validation accuracy: 0.9517
+Hidden layers 3
+Epoch 7 Loss 1.508025 Duration 7.445 seconds.
+###Validation###
+Validation accuracy: 0.9397
+Hidden layers 3
+Epoch 8 Loss 1.507949 Duration 7.277 seconds.
+###Validation###
+Validation accuracy: 0.9524
+Hidden layers 3
+Epoch 9 Loss 1.492703 Duration 7.807 seconds.
+###Validation###
+Validation accuracy: 0.9412
+Hidden layers 3
+Epoch 10 Loss 1.523647 Duration 8.270 seconds.
+###Validation###
+Validation accuracy: 0.9396
+Hidden layers: 3, Hidden units: 512, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.509238 Duration 5.608 seconds.
+###Validation###
+Validation accuracy: 0.9501
+Hidden layers: 3, Hidden units: 512, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.515357 Duration 5.548 seconds.
+###Validation###
+Validation accuracy: 0.9479
+Hidden layers 3
+Epoch 2 Loss 1.521366 Duration 5.074 seconds.
+###Validation###
+Validation accuracy: 0.9477
+Hidden layers 3
+Epoch 3 Loss 1.510915 Duration 5.017 seconds.
+###Validation###
+Validation accuracy: 0.9652
+Hidden layers 3
+Epoch 4 Loss 1.487670 Duration 5.394 seconds.
+###Validation###
+Validation accuracy: 0.9666
+Hidden layers 3
+Epoch 5 Loss 1.503740 Duration 5.139 seconds.
+###Validation###
+Validation accuracy: 0.9637
+Hidden layers: 3, Hidden units: 512, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.493709 Duration 5.483 seconds.
+###Validation###
+Validation accuracy: 0.9520
+Hidden layers 3
+Epoch 2 Loss 1.518466 Duration 5.478 seconds.
+###Validation###
+Validation accuracy: 0.9413
+Hidden layers 3
+Epoch 3 Loss 1.532670 Duration 6.371 seconds.
+###Validation###
+Validation accuracy: 0.9623
+Hidden layers 3
+Epoch 4 Loss 1.471790 Duration 5.063 seconds.
+###Validation###
+Validation accuracy: 0.9675
+Hidden layers 3
+Epoch 5 Loss 1.476784 Duration 7.356 seconds.
+###Validation###
+Validation accuracy: 0.9685
+Hidden layers 3
+Epoch 6 Loss 1.482163 Duration 6.213 seconds.
+###Validation###
+Validation accuracy: 0.9668
+Hidden layers 3
+Epoch 7 Loss 1.485749 Duration 5.107 seconds.
+###Validation###
+Validation accuracy: 0.9509
+Hidden layers 3
+Epoch 8 Loss 1.487261 Duration 6.875 seconds.
+###Validation###
+Validation accuracy: 0.9687
+Hidden layers 3
+Epoch 9 Loss 1.485344 Duration 5.132 seconds.
+###Validation###
+Validation accuracy: 0.9652
+Hidden layers 3
+Epoch 10 Loss 1.502941 Duration 5.333 seconds.
+###Validation###
+Validation accuracy: 0.9630
+Hidden layers: 3, Hidden units: 1024, Batch size: 32, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.775864 Duration 36.183 seconds.
+###Validation###
+Validation accuracy: 0.8192
+Hidden layers: 3, Hidden units: 1024, Batch size: 32, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.492402 Duration 33.209 seconds.
+###Validation###
+Validation accuracy: 0.8891
+Hidden layers 3
+Epoch 2 Loss 1.523650 Duration 32.296 seconds.
+###Validation###
+Validation accuracy: 0.8168
+Hidden layers 3
+Epoch 3 Loss 1.742400 Duration 32.354 seconds.
+###Validation###
+Validation accuracy: 0.7515
+Hidden layers 3
+Epoch 4 Loss 1.742400 Duration 32.319 seconds.
+###Validation###
+Validation accuracy: 0.7871
+Hidden layers 3
+Epoch 5 Loss 1.711150 Duration 32.469 seconds.
+###Validation###
+Validation accuracy: 0.7575
+Hidden layers: 3, Hidden units: 1024, Batch size: 32, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.617392 Duration 35.042 seconds.
+###Validation###
+Validation accuracy: 0.8814
+Hidden layers 3
+Epoch 2 Loss 1.586150 Duration 41.712 seconds.
+###Validation###
+Validation accuracy: 0.8773
+Hidden layers 3
+Epoch 3 Loss 1.617400 Duration 34.846 seconds.
+###Validation###
+Validation accuracy: 0.8352
+Hidden layers 3
+Epoch 4 Loss 1.742400 Duration 33.933 seconds.
+###Validation###
+Validation accuracy: 0.8333
+Hidden layers 3
+Epoch 5 Loss 1.586150 Duration 33.529 seconds.
+###Validation###
+Validation accuracy: 0.8226
+Hidden layers 3
+Epoch 6 Loss 1.773650 Duration 33.382 seconds.
+###Validation###
+Validation accuracy: 0.8186
+Hidden layers 3
+Epoch 7 Loss 1.554900 Duration 33.205 seconds.
+###Validation###
+Validation accuracy: 0.8156
+Hidden layers 3
+Epoch 8 Loss 1.617397 Duration 33.530 seconds.
+###Validation###
+Validation accuracy: 0.8479
+Hidden layers 3
+Epoch 9 Loss 1.773650 Duration 39.071 seconds.
+###Validation###
+Validation accuracy: 0.6616
+Hidden layers 3
+Epoch 10 Loss 1.868398 Duration 38.735 seconds.
+###Validation###
+Validation accuracy: 0.6137
+Hidden layers: 3, Hidden units: 1024, Batch size: 64, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.603502 Duration 20.860 seconds.
+###Validation###
+Validation accuracy: 0.8841
+Hidden layers: 3, Hidden units: 1024, Batch size: 64, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.663053 Duration 20.865 seconds.
+###Validation###
+Validation accuracy: 0.9083
+Hidden layers 3
+Epoch 2 Loss 1.586183 Duration 20.673 seconds.
+###Validation###
+Validation accuracy: 0.8868
+Hidden layers 3
+Epoch 3 Loss 1.695524 Duration 20.355 seconds.
+###Validation###
+Validation accuracy: 0.8732
+Hidden layers 3
+Epoch 4 Loss 1.664271 Duration 20.073 seconds.
+###Validation###
+Validation accuracy: 0.8674
+Hidden layers 3
+Epoch 5 Loss 1.570527 Duration 20.250 seconds.
+###Validation###
+Validation accuracy: 0.9227
+Hidden layers: 3, Hidden units: 1024, Batch size: 64, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.569622 Duration 20.924 seconds.
+###Validation###
+Validation accuracy: 0.9114
+Hidden layers 3
+Epoch 2 Loss 1.585902 Duration 20.673 seconds.
+###Validation###
+Validation accuracy: 0.8782
+Hidden layers 3
+Epoch 3 Loss 1.679081 Duration 20.221 seconds.
+###Validation###
+Validation accuracy: 0.8656
+Hidden layers 3
+Epoch 4 Loss 1.539389 Duration 20.094 seconds.
+###Validation###
+Validation accuracy: 0.9019
+Hidden layers 3
+Epoch 5 Loss 1.601775 Duration 20.023 seconds.
+###Validation###
+Validation accuracy: 0.9046
+Hidden layers 3
+Epoch 6 Loss 1.724403 Duration 20.378 seconds.
+###Validation###
+Validation accuracy: 0.8471
+Hidden layers 3
+Epoch 7 Loss 1.539275 Duration 20.220 seconds.
+###Validation###
+Validation accuracy: 0.8726
+Hidden layers 3
+Epoch 8 Loss 1.773651 Duration 20.136 seconds.
+###Validation###
+Validation accuracy: 0.7722
+Hidden layers 3
+Epoch 9 Loss 1.552821 Duration 20.098 seconds.
+###Validation###
+Validation accuracy: 0.9028
+Hidden layers 3
+Epoch 10 Loss 1.554900 Duration 21.304 seconds.
+###Validation###
+Validation accuracy: 0.9003
+Hidden layers: 3, Hidden units: 1024, Batch size: 128, Max epochs: 1
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.506382 Duration 19.492 seconds.
+###Validation###
+Validation accuracy: 0.9354
+Hidden layers: 3, Hidden units: 1024, Batch size: 128, Max epochs: 5
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.569318 Duration 13.956 seconds.
+###Validation###
+Validation accuracy: 0.9414
+Hidden layers 3
+Epoch 2 Loss 1.509383 Duration 14.268 seconds.
+###Validation###
+Validation accuracy: 0.9531
+Hidden layers 3
+Epoch 3 Loss 1.509749 Duration 13.455 seconds.
+###Validation###
+Validation accuracy: 0.9356
+Hidden layers 3
+Epoch 4 Loss 1.508048 Duration 13.793 seconds.
+###Validation###
+Validation accuracy: 0.9451
+Hidden layers 3
+Epoch 5 Loss 1.523648 Duration 13.431 seconds.
+###Validation###
+Validation accuracy: 0.9415
+Hidden layers: 3, Hidden units: 1024, Batch size: 128, Max epochs: 10
+###Train###
+---Setup input interfaces...
+---Setup the network...
+---Setup training components...
+---Setup the Saver for saving models...
+---Run...
+Hidden layers 3
+Epoch 1 Loss 1.552794 Duration 14.544 seconds.
+###Validation###
+Validation accuracy: 0.9348
+Hidden layers 3
+Epoch 2 Loss 1.521049 Duration 13.636 seconds.
+###Validation###
+Validation accuracy: 0.9497
+Hidden layers 3
+Epoch 3 Loss 1.539469 Duration 13.649 seconds.
+###Validation###
+Validation accuracy: 0.9411
+Hidden layers 3
+Epoch 4 Loss 1.523382 Duration 13.477 seconds.
+###Validation###
+Validation accuracy: 0.9280
+Hidden layers 3
+Epoch 5 Loss 1.568852 Duration 15.527 seconds.
+###Validation###
+Validation accuracy: 0.9447
+Hidden layers 3
+Epoch 6 Loss 1.569517 Duration 14.715 seconds.
+###Validation###
+Validation accuracy: 0.9438
+Hidden layers 3
+Epoch 7 Loss 1.547076 Duration 14.125 seconds.
+###Validation###
+Validation accuracy: 0.9196
+Hidden layers 3
+Epoch 8 Loss 1.534824 Duration 14.163 seconds.
+###Validation###
+Validation accuracy: 0.9382
+Hidden layers 3
+Epoch 9 Loss 1.531463 Duration 13.666 seconds.
+###Validation###
+Validation accuracy: 0.9422
+Hidden layers 3
+Epoch 10 Loss 1.547062 Duration 14.655 seconds.
+###Validation###
+Validation accuracy: 0.9433
